@@ -4,7 +4,6 @@ TinhVoi
 RuocXuanVeNha
 NhoMe
 MeOi
-ChoCon
 OnNghiaSinhThanh
 QuynhHuong
 TinhDauQuaChen
@@ -13,4 +12,4 @@ IWannaBeYourLove
 NoiSauTuongTu
 DauTuChoTraiTim
 LanUuTien
-NgayXuanLongPhungSumVay
+ChoCon
